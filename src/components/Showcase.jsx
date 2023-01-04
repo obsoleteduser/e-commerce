@@ -9,10 +9,10 @@ export const Showcase = () => {
 
 
     const images = {
-        productOne: 'src/assets/img/image-product-1.jpg',
-        productTwo: 'src/assets/img/image-product-2.jpg',
-        productThree: 'src/assets/img/image-product-3.jpg',
-        productFour: 'src/assets/img/image-product-4.jpg'
+        productOne: '/src/assets/img/image-product-1.jpg',
+        productTwo: '/src/assets/img/image-product-2.jpg',
+        productThree: '/src/assets/img/image-product-3.jpg',
+        productFour: '/src/assets/img/image-product-4.jpg'
     }
 
 
